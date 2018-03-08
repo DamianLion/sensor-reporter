@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/blimpify/animations/master/gif.gif" width="100%">
+
 # Sensor Reporter
 
 esp2866 (wemos/nodemcuv2) programm for posting data to the blimpify api
