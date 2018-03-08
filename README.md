@@ -1,4 +1,6 @@
-# Sensor Service
+# Sensor Reporter
+
+esp2866 (wemos/nodemcuv2) programm for posting data to the blimpify api
 
 # Upload
 
